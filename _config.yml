@@ -1,6 +1,6 @@
 # Setup
 title: 阳龙生的博客
-description: 十年码农
+description: 程序员守夜人
 url: https://yanglongsheng.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -29,7 +29,7 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: yanglonghseng
   card: summary
 logo: logo.png
 social:
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
+  name: longsheng yang
   url: https://github.com/yanglongsheng/
   email: yanglongsheng.yls@gmail.com
