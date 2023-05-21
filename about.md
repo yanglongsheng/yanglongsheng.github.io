@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-this is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/yanglongsheng) and [Pure](https://purecss.io/).
+这里是[阳龙生](https://yanglongsheng.blog.csdn.net/)的个人博客. It is built on [Poole](https://github.com/yanglongsheng) and [Pure](https://purecss.io/).
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/yanglongsheng/yanglongsheng.github.io) file.
+For more articles by 阳龙生, please click  [阳龙生的技术博客](https://yanglongsheng.blog.csdn.net/) .

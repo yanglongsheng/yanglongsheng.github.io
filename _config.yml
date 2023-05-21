@@ -1,7 +1,7 @@
 # Setup
 title: 阳龙生的博客
-description: 程序员守夜人
-url: https://yanglongsheng.github.io
+description: 从程序员到架构师
+url: https://yanglongsheng.blog.csdn.net/
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -33,7 +33,7 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: longsheng yang
   links:
     - https://twitter.com/yanglongsheng
     - https://github.com/yanglongsheng
