@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to yanglongshengのblog
-date: 2010-09-01 23:18 +0800
+date: 2015-09-01 23:18 +0800
 last_modified_at: 2020-09-02 01:08:25 +0800
 tags: [yanglongshen,blog]
 toc:  true
