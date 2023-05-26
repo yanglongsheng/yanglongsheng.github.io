@@ -1,11 +1,14 @@
 ---
-layout: post
 title: Welcome to yanglongshengのblog
-date: 2015-09-01 23:18 +0800
-last_modified_at: 2020-09-02 01:08:25 +0800
-tags: [yanglongshen,blog]
-toc:  true
+date: 2015-09-01 15:18:00 Z
+tags:
+- yanglongshen
+- blog
+layout: post
+last_modified_at: 2020-09-01 17:08:25 Z
+toc: true
 ---
+
 Welcome to **yanglongshengのblog**! 这里我们来了解一下博客语法吧.
 {: .message }
 

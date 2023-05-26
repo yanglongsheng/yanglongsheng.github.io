@@ -1,6 +1,6 @@
 ---
-layout: page
 title: About
+layout: page
 ---
 
 这里是[阳龙生](https://yanglongsheng.blog.csdn.net/)的个人博客. It is built on [Poole](https://github.com/yanglongsheng) and [Pure](https://purecss.io/).

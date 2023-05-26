@@ -1,6 +1,7 @@
 ---
-layout: archive-taxonomies
-permalink: /tags/
 title: Tags
+permalink: "/tags/"
+layout: archive-taxonomies
 type: tags
 ---
+
